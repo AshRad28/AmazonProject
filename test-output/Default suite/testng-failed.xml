@@ -5,7 +5,7 @@
     <classes>
       <class name="amazon.amazon_test">
         <methods>
-          <include name="Amazon"/>
+          <include name="AmazonHome"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- amazon.amazon_test -->
